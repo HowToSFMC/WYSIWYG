@@ -8,7 +8,7 @@ In given scenario, the best persona will be built based on Recent Car Rental Dur
 ### Step 1: 
 Create sendable data extension and store the existing customer information on it.
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Car](https://res.cloudinary.com/howtosfmc/image/upload/v1595530008/articles/WYSIWYG/Cars/howtosfmc_car_picture1_nqs4rj.png)
  
 ### Step 2:
 Create user persona based on the user behavior which will help in reengaging the existing customers. 
@@ -22,7 +22,7 @@ So based on this we can create different rules in dynamic content and segment th
 ### First Criteria: 
 **Recent car hire duration is greater than 15 days.**
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Car](https://res.cloudinary.com/howtosfmc/image/upload/v1595530008/articles/WYSIWYG/Cars/howtosfmc_car_picture3_w27nhg.png)
  
 The users who fulfill this criterion will consider as loyal members as they have shown trust on rental firm.
 
@@ -30,7 +30,7 @@ Based on that will create content for this user which will show them some good m
 
 ### Just of example:
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Car](https://res.cloudinary.com/howtosfmc/image/upload/v1595530008/articles/WYSIWYG/Cars/howtosfmc_car_picture4_sk8ync.png)
  
 
 ### Second Criteria: 
@@ -41,7 +41,7 @@ As these are the users who is connected with firm and shown their interest. As t
 
 ### Just of example:
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Car](https://res.cloudinary.com/howtosfmc/image/upload/v1595530008/articles/WYSIWYG/Cars/howtosfmc_car_picture5_m1hq6h.png)
    
 ### Third Criteria: 
 
@@ -51,7 +51,7 @@ By this persona, car rental firm is sure about user behavior as they are not wor
  
 ### Default criteria:  
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Car](https://res.cloudinary.com/howtosfmc/image/upload/v1595530009/articles/WYSIWYG/Cars/howtosfmc_car_picture7_sjivum.png)
 
 **All the offers will be shown to reengaging the existing customers.**
 
@@ -60,5 +60,7 @@ By this persona, car rental firm is sure about user behavior as they are not wor
 ### Additional Points To Consider:
 
 **We can provide users to select their color preferences in email using an interactive form.**
+
+![Car](https://res.cloudinary.com/howtosfmc/image/upload/v1595530009/articles/WYSIWYG/Cars/howtosfmc_car_picture8_ampjp9.png)
  
  
